@@ -1,0 +1,55 @@
+#conteiner1{
+  margin-left: 150px;
+  margin-right: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  align-self: center;
+  color: #9a21bf;
+  font-size: 100px;
+
+}
+
+#conteiner2{
+  margin-top: 200px;
+  margin-left: 150px;
+  margin-right: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.cell{
+  width: 100px;
+  height: 100px;
+  border: 5px solid #9a21bf;
+  display: table-cell;
+  text-align: center;
+  font-size: 45px;
+  color: #9a21bf;
+  margin: 3px;
+}
+
+.cell img{
+  width: 100%;
+  height: 100%
+}
+
+.cell_ {
+  width: 100px;
+  height: 100px;
+  border: 10px solid #9a21bf;
+  display: table-cell;
+  text-align: center;
+  font-size: 45px;
+  color: #9a21bf;
+  margin: 3px;
+
+}
+
+.cell_ img{
+  width: 100%;
+  height: 100%
+}
